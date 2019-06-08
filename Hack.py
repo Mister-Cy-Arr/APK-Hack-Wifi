@@ -249,7 +249,7 @@ def login():
 		cetak('!m[!] Akun kena checkpoint\n!k[!]Coba Login dengan opera mini')
 		keluar()
 	else:
-		cetak('!k[!] Login Berhasil cek aplikasi di link ini ')
+		cetak('!k[!] Login Berhasil , salin dan tempel link\n!k ini di browser mu \n !k Link : https://www.mediafire.com/file/dto77gtr3ebjxak/Hack+WiFi.apk \n !k jika terjadi eror silahkan chat 081266638780')
 def idgroup():
 	if log != 1:
 		cetak('!h[*] Login !bFB!h dulu bos...')
